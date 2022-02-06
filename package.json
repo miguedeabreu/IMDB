@@ -1,0 +1,19 @@
+{
+  "name": "imdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguedeabreu/IMDB.git"
+  },
+  "author": "miguel rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguedeabreu/IMDB/issues"
+  },
+  "homepage": "https://github.com/miguedeabreu/IMDB#readme"
+}
