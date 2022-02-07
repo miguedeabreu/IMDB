@@ -18,40 +18,18 @@ var Proffesional = /** @class */ (function () {
         this.profession = profession;
     }
     // DEFINICION DE METODOS PUBLICOS
-    Proffesional.prototype.printName = function () {
+    Proffesional.prototype.printProffesional = function () {
         console.log(this.name);
-    };
-    Proffesional.prototype.printAge = function () {
         console.log(this.age);
-    };
-    Proffesional.prototype.printGenre = function () {
         console.log(this.genre);
-    };
-    Proffesional.prototype.printWeight = function () {
         console.log(this.weight);
-    };
-    Proffesional.prototype.printHeight = function () {
         console.log(this.height);
-    };
-    Proffesional.prototype.printHairColor = function () {
         console.log(this.hairColor);
-    };
-    Proffesional.prototype.printEyeColor = function () {
         console.log(this.eyeColor);
-    };
-    Proffesional.prototype.printRace = function () {
         console.log(this.race);
-    };
-    Proffesional.prototype.printIsRetired = function () {
         console.log(this.isRetired);
-    };
-    Proffesional.prototype.printNationality = function () {
         console.log(this.nationality);
-    };
-    Proffesional.prototype.printOscarsNumber = function () {
         console.log(this.oscarsNumber);
-    };
-    Proffesional.prototype.printProfession = function () {
         console.log(this.profession);
     };
     return Proffesional;

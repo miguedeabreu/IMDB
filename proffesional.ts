@@ -37,63 +37,19 @@ export class Proffesional
 
     // DEFINICION DE METODOS PUBLICOS
     
-    public printName ():void
+    public printProffesional ():void
     {
         console.log(this.name);
-    }
-
-    public printAge ():void
-    {
         console.log(this.age);
-    }
-
-    public printGenre ():void
-    {
         console.log(this.genre);
-    }
-
-    public printWeight ():void
-    {
         console.log(this.weight);
-    }
-
-    public printHeight ():void
-    {
         console.log(this.height);
-    }
-
-    public printHairColor ():void
-    {
         console.log(this.hairColor);
-    }
-    
-    public printEyeColor ():void
-    {
         console.log(this.eyeColor);
-    }
-
-    public printRace ():void
-    {
         console.log(this.race);
-    }
-
-    public printIsRetired ():void
-    {
         console.log(this.isRetired);
-    }
-
-    public printNationality ():void
-    {
         console.log(this.nationality);
-    }
-
-    public printOscarsNumber ():void
-    {
         console.log(this.oscarsNumber);
-    }
-
-    public printProfession ():void
-    {
         console.log(this.profession);
     }
 }
